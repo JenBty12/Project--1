@@ -31,4 +31,53 @@ let someNumber = 33;  // Declare a variable 'someNumber' and assign it a numeric
 let stringNumber = String(someNumber);  // Convert 'someNumber' (a number) to a string using the String() function
 
 console.log(stringNumber);  // Output the value of 'stringNumber' to the console. It will be "33" as a string.
-console.log(typeof stringNumber)//
+console.log(typeof stringNumber)
+
+// operation ********************///
+
+// Basic Math Operators in JavaScript
+
+// Addition
+// let sum = a + b; // Adds a and b
+
+// Subtraction
+// let difference = a - b; // Subtracts b from a
+
+// Multiplication
+// let product = a * b; // Multiplies a and b
+
+// Division
+// let quotient = a / b; // Divides a by b
+
+// Modulus (Remainder)
+// let remainder = a % b; // Returns the remainder of a divided by b
+
+// Exponentiation (Power)
+// let power = a ** b; // Raises a to the power of b (a^b)
+
+// Increment
+// a++; // Increases a by 1 (post-increment)
+// ++a; // Increases a by 1 (pre-increment)
+
+// Decrement
+// a--; // Decreases a by 1 (post-decrement)
+// --a; // Decreases a by 1 (pre-decrement)
+
+// ************************************** //
+
+let str1 ="helllo"
+let str2 = "hitesh"
+let str3 = str1 + str2
+console.log(str3);
+
+// console.log("1"+2);
+// console.log(1+2+"2")
+
+// console.log((3+4)*5)
+
+// first is string then others number are aslo treated as string
+//empty parentesies in boolen is equal to zero
+
+let gaemcounter = 100
+++gamecounter
+console.log(gamecounter)
