@@ -12,7 +12,7 @@ let temp=null
 //string=>""
 //Boolean=>true/false
 //null=>standalone value
-//undefined=>Means value is not assign
+//undefined=>It Means value is not assign
 //symbol mostlu use in React
 
 //object 
